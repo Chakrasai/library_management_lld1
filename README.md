@@ -29,13 +29,13 @@ javac Book.java Patron.java Transaction.java Library.java Main.java
 
 ### Run
 ```bash
-java Main
+java Main  
 ```
 
 ## 📖 Core Classes
 
 ### Book
-Represents a book with basic information.
+Represents a book with basic informati on.
 
 ```java
 Book book = new Book("ISBN001", "The Great Gatsby", "F. Scott Fitzgerald");
